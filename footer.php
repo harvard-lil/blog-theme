@@ -1,8 +1,8 @@
 		<footer>
 			<div class="footer-wrapper">
 				<figure class="footer-logo">
-					<img	srcset="http://hlslwebtest.law.harvard.edu/dev/dano/cms/thumbs/351x143r/2015-07/lab-logo-footer-projects.png 1x, 
-								http://hlslwebtest.law.harvard.edu/dev/dano/cms/thumbs/702x286r/2015-07/lab-logo-footer-projects.png 2x"
+					<img	srcset="//lil.law.harvard.edu/assets/thumbs/351x143r/lab-logo-footer-projects.png 1x, 
+								//lil.law.harvard.edu/assets/thumbs/702x286r/lab-logo-footer-projects.png 2x"
 							alt="Library Innovation Lab" />
 				</figure>
 				<ul class="footer-nav">
